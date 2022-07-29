@@ -1,0 +1,16 @@
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\bin\Debug\net5.0\Evidence_Pojistenych_Remis.exe
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\bin\Debug\net5.0\Evidence_Pojistenych_Remis.deps.json
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\bin\Debug\net5.0\Evidence_Pojistenych_Remis.runtimeconfig.json
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\bin\Debug\net5.0\Evidence_Pojistenych_Remis.runtimeconfig.dev.json
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\bin\Debug\net5.0\Evidence_Pojistenych_Remis.dll
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\bin\Debug\net5.0\Evidence_Pojistenych_Remis.pdb
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.csproj.AssemblyReference.cache
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.AssemblyInfoInputs.cache
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.AssemblyInfo.cs
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.csproj.CoreCompileInputs.cache
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.dll
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\refint\Evidence_Pojistenych_Remis.dll
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.pdb
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\Evidence_Pojistenych_Remis.genruntimeconfig.cache
+C:\Users\dadvi\Dropbox\Programování\ASP.NET\Evidence_Pojistenych_Remis\Evidence_Pojistenych_Remis\obj\Debug\net5.0\ref\Evidence_Pojistenych_Remis.dll
